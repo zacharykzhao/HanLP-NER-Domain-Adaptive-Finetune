@@ -25,5 +25,5 @@ data format:
 | 别   | I-Target |
 | 。   | O        |
 
-### 注意：
-数据中 data部分不能有：空格" " ， 分隔符:"｜"
+### NOTICE：
+space " " and speicial punctions, like "|" is not allowed in data.
