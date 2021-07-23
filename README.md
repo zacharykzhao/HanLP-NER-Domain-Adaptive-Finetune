@@ -26,4 +26,4 @@ data format:
 | 。   | O        |
 
 ### NOTICE：
-space " " and speicial punctions, like "|" is not allowed in data.
+space " " and speicial punctions, like "|", are not allowed in data.
